@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       
       <input type="file"
-      //  onChange={(event)=>{uploadImage(event.target.files)}} 
+       onChange={(event)=>{uploadImage(event.target.files)}} 
        />
       
      
